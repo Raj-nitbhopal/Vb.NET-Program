@@ -1,0 +1,12 @@
+F:\RAJAN DOCUMENTS\VB.NET Program\MultiWork\MultiWork\bin\Debug\MultiWork.exe.config
+F:\RAJAN DOCUMENTS\VB.NET Program\MultiWork\MultiWork\bin\Debug\MultiWork.exe
+F:\RAJAN DOCUMENTS\VB.NET Program\MultiWork\MultiWork\bin\Debug\MultiWork.pdb
+F:\RAJAN DOCUMENTS\VB.NET Program\MultiWork\MultiWork\bin\Debug\MultiWork.xml
+F:\RAJAN DOCUMENTS\VB.NET Program\MultiWork\MultiWork\obj\Debug\MultiWork.Form1.resources
+F:\RAJAN DOCUMENTS\VB.NET Program\MultiWork\MultiWork\obj\Debug\MultiWork.Resources.resources
+F:\RAJAN DOCUMENTS\VB.NET Program\MultiWork\MultiWork\obj\Debug\MultiWork.vbproj.GenerateResource.cache
+F:\RAJAN DOCUMENTS\VB.NET Program\MultiWork\MultiWork\obj\Debug\MultiWork.vbproj.CoreCompileInputs.cache
+F:\RAJAN DOCUMENTS\VB.NET Program\MultiWork\MultiWork\obj\Debug\MultiWork.exe
+F:\RAJAN DOCUMENTS\VB.NET Program\MultiWork\MultiWork\obj\Debug\MultiWork.xml
+F:\RAJAN DOCUMENTS\VB.NET Program\MultiWork\MultiWork\obj\Debug\MultiWork.pdb
+F:\RAJAN DOCUMENTS\VB.NET Program\MultiWork\MultiWork\obj\Debug\MultiWork.vbprojAssemblyReference.cache
