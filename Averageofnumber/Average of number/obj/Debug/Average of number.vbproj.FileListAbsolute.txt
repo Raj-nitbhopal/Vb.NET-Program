@@ -1,0 +1,4 @@
+F:\RAJAN DOCUMENTS\VB.NET Program\Average of number\Average of number\obj\Debug\Average of number.vbprojAssemblyReference.cache
+F:\RAJAN DOCUMENTS\VB.NET Program\Average of number\Average of number\obj\Debug\Average_of_number.Resources.resources
+F:\RAJAN DOCUMENTS\VB.NET Program\Average of number\Average of number\obj\Debug\Average of number.vbproj.GenerateResource.cache
+F:\RAJAN DOCUMENTS\VB.NET Program\Average of number\Average of number\obj\Debug\Average of number.vbproj.CoreCompileInputs.cache
